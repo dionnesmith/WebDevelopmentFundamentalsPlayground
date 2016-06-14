@@ -2,8 +2,14 @@
 
 body {
 	font-family: Georgia;
-	background: blue;
+	
 }
 
+.css-statements {
 
+	border: 3px solid black;
+}
 
+.uses {
+	border: 5px solid turquoise;
+}
