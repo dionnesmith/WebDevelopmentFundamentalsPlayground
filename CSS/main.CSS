@@ -36,6 +36,9 @@ body {
 }
 .nav li a:hover{
 	background-color: 111;
+
+/*CSS Items*/
+
 }
 .face{
   width:75px;
@@ -130,14 +133,7 @@ body {
   margin-right: 45px;
 }
 
-#mustache {
-  width: 30px;
-  height: 60px;
-  right: 10px;
-  background-color: black;
-  position: relative;
-  margin: 30px 30px 30px 30px
-}
+/*Bootstrap Items*/
 
 .project-box-1 {
   height: 300px;
@@ -177,4 +173,14 @@ body {
 .project-box-8 {
   height: 300px;
   background-color: violet;
+}
+
+
+#my-age {
+  color: white;
+}
+
+#story p {
+  background: white;
+  text-align: center;
 }
