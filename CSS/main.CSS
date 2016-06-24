@@ -184,3 +184,102 @@ body {
   background: white;
   text-align: center;
 }
+
+#fadeInHelloWorld {
+  width:100px;
+  height:20px;
+  display:none;
+  background-color:red;
+}
+
+#bryce {
+    height: 100px;
+    width: 100px;
+    background-color: #FA6900;
+    border-radius: 5px;
+}
+#circle {
+  width: 100px;
+  height: 100px;
+  border: 2px solid yellow;
+  border-radius: 50px;
+  background: yellow;
+  margin: 20px 0px 0px 20px;
+  position: absolute;
+}
+
+#square {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  margin: 20px 0px 0px 150px;
+  background: blue
+  }
+
+#colors {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  margin: 20px 0px 0px 270px;
+  border-top: 2px solid red;
+  border-right: 2px solid green;
+  border-bottom: 2px solid blue;
+  border-left: 2px solid violet;
+}
+
+#color-square {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  margin: 20px 0px 0px 400px;
+  border-top: 50px solid red;
+  border-right: 50px solid green;
+  border-bottom: 50px solid blue;
+  border-left: 50px solid yellow;  
+}
+
+#triangle {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  margin: 20px 0px 0px 520px;
+  border-top: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 50px solid blue;
+  border-left: 50px solid transparent;  
+}
+
+#triangle-2 {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  margin: 20px 0px 0px 640px;
+  border-top: 2px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid blue;
+  border-left: 50px solid transparent;  
+}
+
+.triangle-border {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  margin: 20px 0px 0px 760px;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid blue;
+  border-left: 50px solid transparent;  
+}
+
+.inner-triangle {
+  width: 0px;
+  height: 0px;
+  top: 24px;
+  bottom: 26px;
+  position: relative;
+  margin: 20px 0px 0px 760px;
+  border-right: 26px solid transparent;
+  border-bottom: 60px solid red;
+  border-left: 26px solid transparent;
+}
