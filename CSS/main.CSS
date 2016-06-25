@@ -283,3 +283,6 @@ body {
   border-bottom: 60px solid red;
   border-left: 26px solid transparent;
 }
+.glyphicon {
+  font-size: 50px
+}
